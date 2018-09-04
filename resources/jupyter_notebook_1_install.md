@@ -24,7 +24,8 @@ Note:  The notebook will open at the directory in which you launch the notebook 
 ```
 $ jupyter notebook
 ```
->[I 23:20:42.888 NotebookApp] JupyterLab beta preview extension loaded from C:\Users\liuri\Anaconda3\lib\site-packages\jupyterlab
+>my example
+[I 23:20:42.888 NotebookApp] JupyterLab beta preview extension loaded from C:\Users\liuri\Anaconda3\lib\site-packages\jupyterlab
 [I 23:20:42.888 NotebookApp] JupyterLab application directory is C:\Users\liuri\Anaconda3\share\jupyter\lab
 [I 23:20:43.073 NotebookApp] Serving notebooks from local directory: C:\Users\liuri
 [I 23:20:43.073 NotebookApp] 0 active kernels
@@ -33,9 +34,8 @@ $ jupyter notebook
 [I 23:20:43.073 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
 [C 23:20:43.089 NotebookApp]
 
-    Copy/paste this URL into your browser when you connect for the first time,
-    to login with a token:
-        http://localhost:8888/?token=23b0340b4d5d0a9010be9fb4794a896f6a80a0a80d3ee240&token=23b0340b4d5d0a9010be9fb4794a896f6a80a0a80d3ee240
+Copy/paste this URL into your browser when you connect for the first time, to login with a token:
+http://localhost:8888/?token=23b0340b4d5d0a9010be9fb4794a896f6a80a0a80d3ee240&token=23b0340b4d5d0a9010be9fb4794a896f6a80a0a80d3ee240
 [I 23:20:43.358 NotebookApp] Accepting one-time-token-authenticated connection from ::1
 
 ```console
