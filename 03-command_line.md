@@ -63,7 +63,12 @@ after each file if it is a directory.
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+- **-d** displays only directories. 
+- **-R** displays subdirectories as well. 
+- **-u** displays files by the file access time. 
+- **-q** displays all nonprinting characters as '?'  
+- **-1** displays each entry on a line.  
+
 
 ---
 
