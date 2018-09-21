@@ -20,7 +20,20 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+- **pwd** shows current working directory path. 
+- **mkdir** creates a directory. 
+- **rm -r** deletes a directory. 
+- **touch** creates a file. 
+- **rm** deletes a file. 
+- **mv** renames a file. 
+- **ls -a** lists hidden files. 
+- **cp** copies a file from onr directory to another. 
+- **cat** shows contents of a file. 
+- **sort** sorts lines of text alphabetically. 
+- **uniq** filters duplicate, adjacent lines of text. 
+- **grep** searches for a text pattern and outputs it. 
+- **sed** searches for a text pattern, modifies it, and outputs it. 
+
 
 ---
 
