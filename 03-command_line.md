@@ -78,7 +78,7 @@ What does `xargs` do? Give an example of how to use it.
 
 xargs is a command on Unix and most Unix-like operating systems used to build and execute
 commands from standard input. It converts input from standard input into arguments to a command. 
-'''
+'''python
 find /path -type f -print | xargs rm.  
 '''
 In the above example, the '''find''' utility feeds the input of '''xargs''' with a long list of file names. '''xargs''' then
