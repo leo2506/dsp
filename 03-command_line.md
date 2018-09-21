@@ -79,7 +79,7 @@ What does `xargs` do? Give an example of how to use it.
 xargs is a command on Unix and most Unix-like operating systems used to build and execute
 commands from standard input. It converts input from standard input into arguments to a command.  
 
-    ```command
+    ```console
         find /path -type f -print | xargs rm.  
     ```  
     
