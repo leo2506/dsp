@@ -5,3 +5,7 @@
     d_totalwgt = CohenEffectSize(firsts.totalwgt_lb, others.totalwgt_lb)
     d_totalwgt 
 ```
+# Output:
+```
+    -0.088672927072602
+```
