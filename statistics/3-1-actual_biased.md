@@ -37,6 +37,7 @@ Plot the actual and biased distributions, and compute their means.
   thinkplot.Config(xlabel='number of kids', ylabel='PMF')
 ```
 #### output:
+
 ![fork](img/forking_repo.png)
 
   
