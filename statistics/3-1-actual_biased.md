@@ -38,6 +38,6 @@ Plot the actual and biased distributions, and compute their means.
 ```
 #### output:
 ```
-![](/iCloud Drive/Documents/Exercise 3-1.png "")
+![](local/iCloud Drive/Documents/Exercise 3-1.png "")
 ```
   
