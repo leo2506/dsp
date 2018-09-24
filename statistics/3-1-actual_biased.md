@@ -7,5 +7,9 @@ Use the NSFG respondent variable numkdhh to construct the actual distribution fo
   pmf = thinkstats2.Pmf(d, label='actual')
   pmf
 ```
+#### output:
+```
+  Pmf({0: 0.466178202276593, 1: 0.21405207379301322, 2: 0.19625801386889966, 3: 0.08713855815779145, 4: 0.025644380478869556, 5: 0.01072877142483318})
+```
 
   
