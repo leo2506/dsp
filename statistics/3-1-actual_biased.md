@@ -38,6 +38,6 @@ Plot the actual and biased distributions, and compute their means.
 ```
 #### output:
 
-![fork](img/forking_repo.png)
+![fork](img/Exercise 3-1.png)
 
   
