@@ -38,6 +38,6 @@ Plot the actual and biased distributions, and compute their means.
 ```
 #### output:
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![pmf](img/exercise3_1.png)
 
   
