@@ -9,3 +9,4 @@
 ```
     -0.088672927072602
 ```
+In conclusion, the difference in means of first baby's total weights and other baby's total weights is -0.088 standard deviations. That being said, first babies are lighter than others. The difference of total weight is over 3 times greater than that of pregnancy length. 
