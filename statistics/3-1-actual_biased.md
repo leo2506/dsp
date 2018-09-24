@@ -38,6 +38,6 @@ Plot the actual and biased distributions, and compute their means.
 ```
 #### output:
 
-![fork](dsp/img/forking_repo.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
   
