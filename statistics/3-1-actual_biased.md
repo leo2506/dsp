@@ -3,9 +3,9 @@
 ### Code:
 Use the NSFG respondent variable numkdhh to construct the actual distribution for the number of children under 18 in the respondents' households.  
 ```python
-  d = resp.numkdhh. 
-  pmf = thinkstats2.Pmf(d, label='actual'). 
-  pmf. 
+  d = resp.numkdhh
+  pmf = thinkstats2.Pmf(d, label='actual')
+  pmf
 ```
 
   
