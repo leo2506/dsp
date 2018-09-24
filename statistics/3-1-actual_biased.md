@@ -38,6 +38,6 @@ Plot the actual and biased distributions, and compute their means.
 ```
 #### output:
 
-![pmf](img/exercise3_1.png)
+![pmf](../img/exercise3_1.png)
 
   
