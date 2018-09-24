@@ -2,5 +2,5 @@
 
 # Code:
   
-> d_totalwgt = CohenEffectSize(firsts.totalwgt_lb, others.totalwgt_lb)
-> d_totalwgt
+'d_totalwgt = CohenEffectSize(firsts.totalwgt_lb, others.totalwgt_lb). 
+d_totalwgt. '
